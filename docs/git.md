@@ -6,4 +6,6 @@ git commit -m "thong diep"
 
 git push
 git push --force
+
+git swith --orphan prja
 ```
